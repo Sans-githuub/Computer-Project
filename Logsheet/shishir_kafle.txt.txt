@@ -1,0 +1,18 @@
+Log sheet of Shishir Kafle
+
+July 17 - Discussion with group members about project done.
+July 18 - Finalize the discussion.
+July 20 - Prototype of TELEPHONE DIRECTORY was made using word.
+July 21 - Discussed Prototype with group members either to finalize or not and listened to their opinion.
+July 22 - Changes made to the prototype and finalize was done.
+July 24 - July 26 - Learned basic about file handling.
+July 28 - Differnt reference cases were studied.
+JUly 29 - Started Writing a program.
+August 3 - Completed main function.
+August 5 - Append fuction completed.
+August 7 - Display and Delete function Completed.
+AUgust 9 - Started report writting.
+August 10 - Three similar cases description done.
+August 13 - Powerpoint presentation completed.
+August 14 - Program tested for final review.
+

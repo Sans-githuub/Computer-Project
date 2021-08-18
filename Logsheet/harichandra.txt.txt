@@ -1,0 +1,18 @@
+Log sheet of Harichandra Khatri
+
+July 17 - Discussion of the completed project with the rest of the group.
+July 18 - Finalize the discussion.
+July 20 - Word was used to make a prototype of the TELEPHONE DIRECTORY.
+July 21 - Prototype was discussed with group members to see if it should be finalized or not, and I listened to their feedback.
+July 22 - The prototype was modified and then finalized.
+July 24 - July 26 - Learned basic about file handling.
+July 28 - Differnt reference cases were studied.
+JUly 29 - Started Writing a program.
+August 3 - Completed update function.
+August 5 - Sort function completed.
+August 7 - Load and search function completed.
+AUgust 9 - Started report writting.
+August 10 - Algorithm and flowchart completed.
+August 13 - Powerpoint presentation reviewed and modified.
+August 14 - Program tested for final review.
+

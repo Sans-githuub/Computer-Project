@@ -1,0 +1,19 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "cppdbg",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": false,
+      "cwd": "c:\\Users\\KarKi\\Desktop\\Report\\C_FIle\\Final_project",
+      "environment": [],
+      "program": "c:\\Users\\KarKi\\Desktop\\Report\\C_FIle\\Final_project\\build\\Debug\\outDebug",
+      "internalConsoleOptions": "openOnSessionStart",
+      "MIMode": "gdb",
+      "miDebuggerPath": "C:\\Program Files (x86)\\mingw-w64\\Mingw\\mingw32\\bin\\gdb.exe",
+      "externalConsole": false
+    }
+  ]
+}
